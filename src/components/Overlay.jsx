@@ -53,7 +53,7 @@ export default function Overlay() {
       <footer className="flex justify-between items-end w-full pointer-events-auto">
         <div className="flex gap-6 text-xs font-mono text-neutral-300">
           <a href="https://www.instagram.com/yell_lab/" target="_blank" rel="noopener noreferrer" className="hover:text-red-500 transition-colors">INSTAGRAM</a>
-          <a href="#" className="hover:text-red-500 transition-colors">TIKTOK</a>
+          <a href="https://www.tiktok.com/@grillz.yelllab?_r=1&_t=ZN-91hAucNFpCg" target="_blank" rel="noopener noreferrer" className="hover:text-red-500 transition-colors">TIKTOK</a>
         </div>
         
         <div className="text-right text-white drop-shadow-md">
